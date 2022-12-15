@@ -1,0 +1,37 @@
+#FUNDO1 {		
+	background: #D1CFBD;
+	padding: 25px; 
+	width: 850px;
+	font-weight: bold;
+}
+#FUNDO1 a {
+	text-decoration: none;
+	padding: 20px;
+	color: #7E909E;
+}
+#FUNDO2 {
+	background: #FBF9E9;
+	padding: 5px; 
+	width: 890px;
+	font-size: 14px;
+	font-weight: 600;
+}
+#FUNDO3 {
+	text-align: center;
+	width: 870px;
+}
+#FUNDO4 {
+	background: #D1CFBD;
+	padding: 15px; 
+	width: 642px;
+}
+.class {
+	margin: 7px; 
+}
+.formatação {
+	color: #7B8162;
+}
+body {
+	background-image: url('Nova pasta/fundo.png'); 
+	font-family: 'Open Sans';
+}
